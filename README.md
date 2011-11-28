@@ -1,0 +1,1 @@
+Code samples used for a short intro to Erlang at the Berlin User Group in November 2011.
